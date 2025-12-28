@@ -1,6 +1,8 @@
 # 💫 About Me:
-SAKIB ABDULLAH
+**SAKIB ABDULLAH**
+
 Microsoft Certified Solutions Developer (MCSD)
+
 Working At: Quadrion Technologies
 
 I am looking forward to build up my
